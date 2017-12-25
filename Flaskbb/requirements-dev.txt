@@ -1,0 +1,9 @@
+-r requirements.txt
+cov-core
+coverage
+py
+pytest
+pytest-cov
+Sphinx
+alabaster
+flake8
