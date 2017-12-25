@@ -21,7 +21,7 @@ if sys.platform == 'win32':
 else:
     site_packages = os.path.join(base, 'lib', 'python%s' % sys.version[:3], 'site-packages')
 prev_sys_path = list(sys.path)
-import site
+import sitem
 site.addsitedir(site_packages)
 sys.real_prefix = sys.prefix
 sys.prefix = base
