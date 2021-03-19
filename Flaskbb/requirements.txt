@@ -26,7 +26,7 @@ Flask-WTF==0.14.2
 flaskbb-plugin-portal==1.0.3
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 kombu==4.0.2
 limits==1.2.1
 Mako==1.0.7
